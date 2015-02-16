@@ -11,6 +11,11 @@ This Software Operates Under the GNU Affero GPL v3.0 License
   * [Authors](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#authors)
   
 # Project Description
+## Backstory
+## Purpose
+## What It Does
+## How It Works
+## Future Improvements
 
 # Libraries Used
 ### JDK Packages
