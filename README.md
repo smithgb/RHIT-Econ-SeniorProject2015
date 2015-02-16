@@ -14,6 +14,7 @@ This Software Operates Under the GNU Affero GPL v3.0 License
 ## Backstory
   My Senior project in Economics required me to gather historical data for various macroeconomic variables. I wanted my observations to be in quarterly frequency. Some were easy to obtain via the FRED Database Excel plugin. A couple other variables, particularly the S&P 500 index, could not easily be found in quarters or the data provided by FRED did not go back far enough.
 ## Purpose
+  The program was written to take data that was not in quarterly format and output it to quarterly format.
 ## What It Does
 ## How It Works
 ## Future Improvements
