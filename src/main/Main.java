@@ -97,7 +97,7 @@ public class Main {
 				if(count.intValue() == 0)
 					count = new BigDecimal(1);
 
-				BigDecimal average = sum.divide(count, 1, RoundingMode.HALF_UP);
+				BigDecimal average = sum.divide(count, 2, RoundingMode.HALF_UP);
 				bw.write(year.toString().concat(Globals.Strings.QUARTER.concat(i.toString())).concat(Globals.Strings.COMMA_SEPARATOR.concat(Double.toString(average.doubleValue()))).concat(System.getProperty(Globals.Strings.LINE_SEPARATOR)));
 			}
 		}
