@@ -13,7 +13,7 @@ This Software Operates Under the GNU Affero GPL v3.0 License
 # Project Description
 
 # Libraries Used
-## JDK Packages
+### JDK Packages
   - java.io
   - java.util
   - java.lang
@@ -21,9 +21,9 @@ This Software Operates Under the GNU Affero GPL v3.0 License
   - java.swing
 
 # Installation Instructions
-## Jar File
+### Jar File
   A prebuilt .jar file is included for convenience.
-## Eclipse
+### Eclipse
   Import the source code into Eclipse and run.
 
 # Copyright & License
