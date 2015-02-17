@@ -55,5 +55,6 @@ Import the source code into Eclipse and run.
 # Copyright & License
 Please see the included LICENSE file.
 
-# Authors
+# Authors & Contact Info
 Just me.
+TODO
