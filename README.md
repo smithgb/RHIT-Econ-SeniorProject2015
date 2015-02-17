@@ -1,7 +1,7 @@
 # RHIT-Econ-SeniorProject2015
 Code used for aggregating data for my Senior Project in Economics
 
-*This Software Operates Under the GNU Affero GPL v3.0 Licens*
+*This Software Operates Under the GNU Affero GPL v3.0 License*
 
 # Table of Contents
   * [Project Description](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#project-description)
