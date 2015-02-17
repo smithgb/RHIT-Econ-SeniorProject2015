@@ -8,7 +8,7 @@ Code used for aggregating data for my Senior Project in Economics
   * [Libraries Used](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#libraries-used)
   * [Installation Instructions](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#installation-instructions)
   * [Copyright & License](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#copyright-&-license)
-  * [Authors](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#authors)
+  * [Authors & Contact Info](https://github.com/smithgb/RHIT-Econ-SeniorProject2015/blob/master/README.md#authors-contact-info)
   
 # Project Description
 ## Backstory
@@ -38,6 +38,8 @@ The input file must be a properly formatted CSV with dates in the format `mm/dd/
 The output file will be placed in the same directory as the input file with the name `<input file name>ByQuarter.csv`. The CSV will have the headers *Date* and *Average*. Each line of the file will be an observation with the date followed by the average value. Dates will be formatted: `yyyyQi` (i = 1...4).
 ## Future Improvements
 *List of additions or modifications I would like to include in the future.*
+
+[ ] ...
 
 # Libraries Used
 ### JDK Packages
