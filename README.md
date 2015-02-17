@@ -16,7 +16,23 @@ Code used for aggregating data for my Senior Project in Economics
 ## Purpose
   The program was written to take data that was not in quarterly format and output it to quarterly format.
 ## What It Does
+  Given data in a frequency that is finer than quarterly, this program will convert it into data that is dated quarterly. The average technique that is used is a simple full-sample average. For example, if your data is in monthly frequency, the first three observations of the year (January, February, March) will be average to obtain the value for the 1st Quarter (Q1). However, if your data is in daily frequency, each data point from 1 January to 31 March will be averaged. This program does not look for uneven distribution of data points within a quarter's period. It simply grabs all datapoints within Qx (where x = 1,2,3,4) and calculates an average.
+
+When running the program, a file chooser is presented at start for convenient file input where the user will choose the file containing the data to be aggregated.
+
+The default output setting is to round averages to two decimal points. In order to change this the source code must be altered manually at the end of the Main.java file.
+
+*Look for:*
+```java
+for(Map.Entry<Integer, ...
+  ...
+  for(Integer i = ...
+    ...
+    ... divide(count, 2, RoundingMode.HALF_UP);
+```
 ## How It Works
+#### Input Requirements
+#### Output Specifications
 ## Future Improvements
 
 # Libraries Used
