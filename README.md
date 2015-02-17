@@ -37,6 +37,7 @@ The input file must be a properly formatted CSV with dates in the format `mm/dd/
 #### Output Specifications
 The output file will be placed in the same directory as the input file with the name `<input file name>ByQuarter.csv`. The CSV will have the headers *Date* and *Average*. Each line of the file will be an observation with the date followed by the average value. Dates will be formatted: `yyyyQi` (i = 1...4).
 ## Future Improvements
+*List of additions or modifications I would like to include in the future.*
 
 # Libraries Used
 ### JDK Packages
@@ -57,4 +58,5 @@ Please see the included LICENSE file.
 
 # Authors & Contact Info
 Just me.
-TODO
+
+Please open an issue in the issue tracker if you would like to contact me about this project.
