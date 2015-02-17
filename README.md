@@ -22,7 +22,7 @@ When running the program, a file chooser is presented at start for convenient fi
 
 The default output setting is to round averages to two decimal points. In order to change this the source code must be altered manually at the end of the Main.java file.
 
-*Look for:*
+**Look for:**
 ```java
 for(Map.Entry<Integer, ...
   ...
